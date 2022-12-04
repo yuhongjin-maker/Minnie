@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-04T08:44:08.132Z</updated>
+  <updated>2022-12-04T10:22:07.909Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,9 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>新建博客文章名</title>
+    <link href="http://example.com/post/32298.html"/>
+    <id>http://example.com/post/32298.html</id>
+    <published>2022-12-04T10:22:07.000Z</published>
+    <updated>2022-12-04T10:22:07.909Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>追剧</title>
-    <link href="http://example.com/2022/12/04/testBlog/"/>
-    <id>http://example.com/2022/12/04/testBlog/</id>
+    <link href="http://example.com/post/16913.html"/>
+    <id>http://example.com/post/16913.html</id>
     <published>2022-12-04T08:36:18.000Z</published>
     <updated>2022-12-04T08:44:08.132Z</updated>
     
@@ -39,8 +52,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/12/04/hello-world/"/>
-    <id>http://example.com/2022/12/04/hello-world/</id>
+    <link href="http://example.com/post/16107.html"/>
+    <id>http://example.com/post/16107.html</id>
     <published>2022-12-04T08:29:39.163Z</published>
     <updated>2022-12-04T08:29:39.163Z</updated>
     
