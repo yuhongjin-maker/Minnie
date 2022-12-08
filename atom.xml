@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-04T10:22:21.984Z</updated>
+  <updated>2022-12-08T06:00:04.315Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,35 +17,23 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>新建博客文章名</title>
-    <link href="http://example.com/post/32298.html"/>
-    <id>http://example.com/post/32298.html</id>
-    <published>2022-12-04T10:22:07.000Z</published>
-    <updated>2022-12-04T10:22:21.984Z</updated>
+    <title>Trees</title>
+    <link href="http://example.com/post/7760.html"/>
+    <id>http://example.com/post/7760.html</id>
+    <published>2022-12-08T05:44:09.000Z</published>
+    <updated>2022-12-08T06:00:04.315Z</updated>
     
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>追剧</title>
-    <link href="http://example.com/post/16913.html"/>
-    <id>http://example.com/post/16913.html</id>
-    <published>2022-12-04T08:36:18.000Z</published>
-    <updated>2022-12-04T10:22:21.982Z</updated>
-    
-    <content type="html"><![CDATA[<p>最近追打火机与公主裙真的好上头，不过今天用windows配置github和hexo死活配置不好，用Mac一下就好了。很难受</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Types-of-Tree-data-structures"><a href="#Types-of-Tree-data-structures" class="headerlink" title="Types of Tree data structures"></a>Types of Tree data structures</h2><h3 id="1-General-tree"><a href="#1-General-tree" class="headerlink" title="1. General tree"></a>1. General tree</h3><p>A general tree data structure has no restriction on the number of nodes. It means that a parent node can have any number of child ndoes.</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;最近追打火机与公主裙真的好上头，不过今天用windows配置github和hexo死活配置不好，用Mac一下就好了。很难受&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h2 id=&quot;Types-of-Tree-data-structures&quot;&gt;&lt;a href=&quot;#Types-of-Tree-data-structures&quot; class=&quot;headerlink&quot; title=&quot;Types of Tree data structures&quot;&gt;&lt;/a</summary>
       
     
     
+    
+    <category term="数据结构(Data Structure)" scheme="http://example.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Data-Structure/"/>
     
     
   </entry>
