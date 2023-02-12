@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-08T06:00:04.315Z</updated>
+  <updated>2023-02-12T06:00:20.299Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,43 +17,23 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Trees</title>
+    <title>2月复苏</title>
     <link href="http://example.com/post/7760.html"/>
     <id>http://example.com/post/7760.html</id>
     <published>2022-12-08T05:44:09.000Z</published>
-    <updated>2022-12-08T06:00:04.315Z</updated>
+    <updated>2023-02-12T06:00:20.299Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Types-of-Tree-data-structures"><a href="#Types-of-Tree-data-structures" class="headerlink" title="Types of Tree data structures"></a>Types of Tree data structures</h2><h3 id="1-General-tree"><a href="#1-General-tree" class="headerlink" title="1. General tree"></a>1. General tree</h3><p>A general tree data structure has no restriction on the number of nodes. It means that a parent node can have any number of child ndoes.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;Types-of-Tree-data-structures&quot;&gt;&lt;a href=&quot;#Types-of-Tree-data-structures&quot; class=&quot;headerlink&quot; title=&quot;Types of Tree data structures&quot;&gt;&lt;/a</summary>
-      
-    
-    
-    
-    <category term="数据结构(Data Structure)" scheme="http://example.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-Data-Structure/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/post/16107.html"/>
-    <id>http://example.com/post/16107.html</id>
-    <published>2022-12-04T08:29:39.163Z</published>
-    <updated>2022-12-04T10:22:21.979Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="～～～2月美食～～～"><a href="#～～～2月美食～～～" class="headerlink" title="～～～2月美食～～～"></a>～～～2月美食～～～</h2><p>前一段时间我突然对人生的意义产生了迷茫感，我估计这也是大多数人有过的感觉就是觉得活着没什么意思。为此我询问了很多的，我得到我比较满意的答案是活着本来就没有什么意思，无非就是出生了算是一个开始，死亡了算是结束。追寻所谓的结果是没有意义的因为所有人都是同一个开头同一个结尾。但是每一个人的喜怒哀乐都是不一样的，可能我们终其一生都在寻找快乐，哪怕是一瞬间。所以我也走出门去寻找能让我感到快乐的事。首先我想到的就是吃，一日三餐是我最容易获得快乐的途径。</p><h3 id="1-Watami-Sushi"><a href="#1-Watami-Sushi" class="headerlink" title="1. Watami Sushi"></a>1. Watami Sushi</h3><p>这应该是我在滑铁卢吃过的最好吃的寿司店，它的搭配非常新颖使我上次吃完久久不能忘怀。<br><img src="/img/IMG_8146.jpg"> </p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h2 id=&quot;～～～2月美食～～～&quot;&gt;&lt;a href=&quot;#～～～2月美食～～～&quot; class=&quot;headerlink&quot; title=&quot;～～～2月美食～～～&quot;&gt;&lt;/a&gt;～～～2月美食～～～&lt;/h2&gt;&lt;p&gt;前一段时间我突然对人生的意义产生了迷茫感，我估计这也是大多数人有过的感觉就是</summary>
       
     
     
+    
+    <category term="生活随想" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E6%83%B3/"/>
     
     
   </entry>
